@@ -1,0 +1,3 @@
+theme: jekyll-theme-minimal
+title: Aleksandar Kartelj research page
+description: I mainly do research in the field of optimization. This includes the design of exact and non-exact optimization techniques such as: integer (linear) programming models, branch & bound, beam search, variable neighborhood search, genetic algorithms, etc. Most of the developed techniques are used to solve difficult problems (usually NP-hard) in areas such as computational biology, transportation, logistics, social networks, etc. Some techniques are also used to improve machine learning algorithms.
