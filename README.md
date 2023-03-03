@@ -1,6 +1,3 @@
-# kartelj.github.io
-Aleksandar Kartelj research page
-
 <u>Papers in journals with IF:</u>
 <ol>
 
