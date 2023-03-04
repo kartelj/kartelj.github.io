@@ -13,6 +13,25 @@
 I mainly do research in the field of optimization. This includes the design of exact and non-exact optimization techniques such as: integer (linear) programming models, branch & bound, beam search, variable neighborhood search, genetic algorithms, etc. Most of the developed techniques are used to solve difficult problems (usually NP-hard) in areas such as computational biology, transportation, logistics, social networks, etc. Some techniques are also used to improve machine learning algorithms.
 </p>
 
+<u>Theses:</u>
+<ul>
+ 		<li>Doctoral thesis: <a href="http://www.matf.bg.ac.rs/~kartelj/akartelj_dokt_finalna_verzija.pdf">Applications of Electromagnetism-like Method in Solving Classification Problems</a></li>
+		<li>Advisor: <a href="http://www.matf.bg.ac.rs/~vladaf">Vladimir Filipović</a></li>
+		<li>Mater thesis: <a href="http://www.matf.bg.ac.rs/~kartelj/akartelj_master_finalna_verzija.pdf">Genetic Algorithm for Solving The Strong Minimum Energy Topology Problem in Weighted Graph</a></li>
+		<li>Advisor:  <a href="http://www.matf.bg.ac.rs/~vladaf">Vladimir Filipović</a></li>
+</li>
+ </ul>
+
+<u>Books:</u><br>
+<ol>
+<li>
+Milutinović, V., Mitić, N., <b>Kartelj, A.</b>, & Kotlar, M. (2022). <br>
+ <a href="https://www.igi-global.com/book/implementation-machine-learning-algorithms-using/269963" target="_blank">
+Implementation of Machine Learning Algorithms Using Control-Flow and Dataflow Paradigms</a>.<br>
+ IGI Global. DOI: 10.4018/978-1-7998-8350-0.</li>
+</ol>
+
+
 <u>Papers in journals with IF:</u>
 <ol>
 
