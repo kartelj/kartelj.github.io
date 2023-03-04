@@ -1,14 +1,4 @@
 theme: jekyll-theme-leap-day
 title: Aleksandar Kartelj research page
-description: Aleksandar Kartelj research page
-
-docs:
-
-- title: Introduction
-  url: introduction.html
-
-- title: Configuration
-  url: configuration.html
-
-- title: Deployment
-  url: deployment.html
+description: Assistant professor, University of Belgrade, Serbia. 
+google_analytics:
