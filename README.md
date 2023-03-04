@@ -15,10 +15,8 @@ I mainly do research in the field of optimization. This includes the design of e
 
 <u>Theses:</u>
 <ul>
- 		<li>Doctoral thesis: <a href="http://www.matf.bg.ac.rs/~kartelj/akartelj_dokt_finalna_verzija.pdf">Applications of Electromagnetism-like Method in Solving Classification Problems</a></li>
-		<li>Advisor: <a href="http://www.matf.bg.ac.rs/~vladaf">Vladimir Filipović</a></li>
-		<li>Mater thesis: <a href="http://www.matf.bg.ac.rs/~kartelj/akartelj_master_finalna_verzija.pdf">Genetic Algorithm for Solving The Strong Minimum Energy Topology Problem in Weighted Graph</a></li>
-		<li>Advisor:  <a href="http://www.matf.bg.ac.rs/~vladaf">Vladimir Filipović</a></li>
+ 		<li>Doctoral thesis: <a href="http://www.matf.bg.ac.rs/~aleksandar.kartelj/akartelj_dokt_finalna_verzija.pdf">Applications of Electromagnetism-like Method in Solving Classification Problems</a><br>Advisor: <a href="http://www.matf.bg.ac.rs/~vladimir.filipovic">Vladimir Filipović</a></li>
+		<li>Mater thesis: <a href="http://www.matf.bg.ac.rs/~aleksandar.kartelj/akartelj_master_finalna_verzija.pdf">Genetic Algorithm for Solving The Strong Minimum Energy Topology Problem in Weighted Graph</a><br>Advisor:  <a href="http://www.matf.bg.ac.rs/~vladimir.filipovic">Vladimir Filipović</a></li>
 </li>
  </ul>
 
