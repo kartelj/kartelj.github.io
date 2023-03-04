@@ -1,3 +1,18 @@
+&nbsp;<a href="http://poincare.matf.bg.ac.rs/~aleksandar.kartelj/" target="_blank">My University page</a>&nbsp;
+|&nbsp; <a href="https://scholar.google.com/citations?user=_QLLEqIAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a> &nbsp;
+|&nbsp; <a href="https://www.researchgate.net/profile/Aleksandar-Kartelj" target="_blank">Research Gate</a> &nbsp;
+|&nbsp; <a href="https://www.scopus.com/authid/detail.uri?authorId=55339227500" target="_blank">Scopus</a> &nbsp;
+|&nbsp; <a href="https://orcid.org/my-orcid?orcid=0000-0001-9839-6039" target="_blank">ORCID</a> &nbsp;
+|&nbsp; <a href="https://independent.academia.edu/AleksandarK7" target="_blank">Academia.edu</a> &nbsp;
+|&nbsp; <a href="https://www.semanticscholar.org/author/Aleksandar-Kartelj/2093681" target="_blank">Semantic Scholar</a> &nbsp;
+|&nbsp; <a href="https://www.linkedin.com/in/aleksandar-kartelj-2721a04/" target="_blank">LinkedIn</a>
+
+
+<u>Introduction:</u>
+<p>
+I mainly do research in the field of optimization. This includes the design of exact and non-exact optimization techniques such as: integer (linear) programming models, branch & bound, beam search, variable neighborhood search, genetic algorithms, etc. Most of the developed techniques are used to solve difficult problems (usually NP-hard) in areas such as computational biology, transportation, logistics, social networks, etc. Some techniques are also used to improve machine learning algorithms.
+</p>
+
 <u>Papers in journals with IF:</u>
 <ol>
 
