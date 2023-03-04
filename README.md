@@ -2,7 +2,7 @@
 |&nbsp; <a href="https://scholar.google.com/citations?user=_QLLEqIAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a> &nbsp;
 |&nbsp; <a href="https://www.researchgate.net/profile/Aleksandar-Kartelj" target="_blank">Research Gate</a> &nbsp;
 |&nbsp; <a href="https://www.scopus.com/authid/detail.uri?authorId=55339227500" target="_blank">Scopus</a> &nbsp;
-|&nbsp; <a href="https://orcid.org/my-orcid?orcid=0000-0001-9839-6039" target="_blank">ORCID</a> &nbsp;
+|&nbsp; <a href="https://orcid.org/0000-0001-9839-6039" target="_blank">ORCID</a> &nbsp;
 |&nbsp; <a href="https://independent.academia.edu/AleksandarK7" target="_blank">Academia.edu</a> &nbsp;
 |&nbsp; <a href="https://www.semanticscholar.org/author/Aleksandar-Kartelj/2093681" target="_blank">Semantic Scholar</a> &nbsp;
 |&nbsp; <a href="https://www.linkedin.com/in/aleksandar-kartelj-2721a04/" target="_blank">LinkedIn</a>
