@@ -26,11 +26,57 @@ Milutinović, V., Mitić, N., <b>Kartelj, A.</b>, & Kotlar, M. (2022). <br>
  <a href="https://www.igi-global.com/book/implementation-machine-learning-algorithms-using/269963" target="_blank">
 Implementation of Machine Learning Algorithms Using Control-Flow and Dataflow Paradigms</a>.<br>
  IGI Global. DOI: 10.4018/978-1-7998-8350-0.</li>
+
+ <li>
+<b>Kartelj, A.</b>, Filipović, V., Tošić, D. (2023). <br>
+Objektno orijentisano programiranje: Programski jezik Java - 1. <br>
+Matematički fakultet, Univerzitet u Beogradu. ISBN13: 9788675891765. 
+</li>
+
 </ol>
 
 
 <u>Papers in journals with IF:</u>
 <ol>
+
+<li>
+Babović, Z., Bajat, B., Barać, D., Bengin, V., Đokić, V., Đorđević, F., Drašković, D., Filipović, N., French, S., Furht, B., Ilić, M., Irfanoglu, A., <b>Kartelj, A.</b>, ..., Zak, S., <br> 
+<a href="https://link.springer.com/article/10.1186/s40537-023-00730-7">Teaching computing for complex problems in civil engineering and geosciences using big data and machine learning: synergizing four different computing paradigms and four different management domains</a>, <br> 
+Journal of Big Data, Vol. 10, Iss. 1, Num. 89, pp. 1-25, 2023, DOI: 10.1186/s40537-023-00730-7.<br>
+IF2021=10.835, <b>M21a (Q1)</b> in Computer Science, Theory & Methods. 
+</li>
+
+
+<li>
+Djukanović, M., <b> Kartelj, A.</b>, Blum, C., <br>
+<a href="https://www.sciencedirect.com/science/article/pii/S0957417423012642">Self-adaptive CMSA for solving the multidimensional multi-way number partitioning problem</a>, <br>
+Expert Systems with Applications, Vol. 232, 2023, DOI: 10.1016/j.eswa.2023.120762. <br>
+IF2022: 8.5, <b>M21 (Q1)</b> in Computer Science, Artificial Intelligence. 
+
+</li>
+
+<li>
+<b>Kartelj, A.</b>, Djukanović, M., <br>
+<a href="https://link.springer.com/article/10.1186/s40537-023-00743-2">RILS-ROLS: robust symbolic regression via iterated local search and ordinary least squares</a>,<br> 
+Journal of Big Data, Vol. 10, Iss. 1, p. 71, 2023, DOI: 10.1186/s40537-023-00743-2. <br>
+IF2021=10.835, <b>M21a (Q1)</b> in Computer Science, Theory & Methods.
+</li>
+
+<li>
+Kapunac, S., <b>Kartelj, A.</b>, Djukanović, M, <br>
+<a href="https://www.sciencedirect.com/science/article/pii/S1568494623004052">Variable neighborhood search for weighted total domination problem and its application in social network information spreading</a>,<br> 
+Applied Soft Computing, Vol. 143, p. 110387, 2023, DOI: 10.1016/j.asoc.2023.110387.<br>
+IF2021=8.263, <b>M21a (Q1)</b> in Computer Science, Interdisciplinary Applications.
+</li>
+
+
+<li>
+Babović, Z., Bajat, B., Đokić, V., Đorđević, F., Drašković, D., Filipović, N., Furht, B., Gačić, N., Ikodinović, I., Ilić, M., Ifranoglu, A., Jelenković, B., <b>Kartelj, A.</b>, ..., Zak, S., <br> 
+<a href="https://journalofbigdata.springeropen.com/articles/10.1186/s40537-023-00731-6">Research in computing-intensive simulations for nature-oriented civil-engineering and related scientific fields, using machine learning and big data: an overview of open problems</a>, <br> 
+Journal of Big Data, Vol. 10, Iss. 1, Num. 73, pp. 1-21, 2023, DOI: 10.1186/s40537-023-00731-6.<br>
+IF2021=10.835, <b>M21a (Q1)</b> in Computer Science, Theory & Methods. 
+</li>
+
 
 <li>
 Đukanović, M., <b>Kartelj, A.</b>, Matić, D., Grbić, M., Blum, C., Raidl, G.,<br>
@@ -144,6 +190,20 @@ Mathematica Balkanica, Vol. 24, pp. 199 - 205, 2010.
 
 <u>Conference papers or abstracts:</u>
 <ol>
+
+<li>
+Predojević, M., <b>Kartelj, A.</b>, & Djukanović, M.,<br>
+<a href="https://dl.acm.org/doi/abs/10.1145/3583133.3590607">Variable neighborhood search for solving the k-domination problem</a>.<br>. 
+In Proceedings of the Companion Conference on Genetic and Evolutionary Computation (pp. 239-242), Lisbon, Portugal, 2023.
+</li>
+
+<li>
+Djukanović, M., <b>Kartelj, A.</b>,<br>
+<a href="http://www.aai2023.kg.ac.rs/technical-program/">Integrating Top-level Constraints into a Symbolic Regression Search Algorithm</a>.<br>
+In 2023 Second Serbian International Conference on Applied Artificial Intelligence (SICAAI), Kragujevac, Serbia, 2023. <b>(Best paper award)</b>.
+</li>
+
+ 
 <li>
 Djukanovic, M., Matic, D., Blum, C., & <b>Kartelj, A.</b> (2022). <br>
 <a href="https://link.springer.com/chapter/10.1007/978-3-031-09282-4_5">Application of A to the Generalized Constrained Longest Common Subsequence Problem with Many Pattern Strings</a>.<br>
