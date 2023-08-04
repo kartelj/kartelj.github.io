@@ -51,7 +51,7 @@ IF2021=10.835, <b>M21a (Q1)</b> in Computer Science, Theory & Methods.
 Djukanović, M., <b> Kartelj, A.</b>, Blum, C., <br>
 <a href="https://www.sciencedirect.com/science/article/pii/S0957417423012642">Self-adaptive CMSA for solving the multidimensional multi-way number partitioning problem</a>, <br>
 Expert Systems with Applications, Vol. 232, 2023, DOI: 10.1016/j.eswa.2023.120762. <br>
-IF2022: 8.5, <b>M21 (Q1)</b> in Computer Science, Artificial Intelligence. 
+IF2022=8.665, <b>M21 (Q1)</b> in Computer Science, Artificial Intelligence. 
 
 </li>
 
